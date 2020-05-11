@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-apple-login",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GEMS Education",
+  "keywords": [
+    "sign in with apple"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GEMSEDU/cordova-plugin-apple-login"
+  },
+  "homepage": "https://github.com/GEMSEDU/cordova-plugin-apple-login",
+  "license": "MIT"
+}
